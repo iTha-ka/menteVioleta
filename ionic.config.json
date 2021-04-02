@@ -1,0 +1,7 @@
+{
+  "name": "menteVioleta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
